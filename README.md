@@ -23,19 +23,19 @@ Shows all 20 CAFM tickets categorized, assigned, and tracked across various oper
 
 ### 2. Work In Progress Tracking (Internal Tech Note)
 Demonstrates internal coordination where a security technician note is logged while keeping the tenant updated.
-![Work In Progress Note](02_Work_In_Progress_Note.png)
+![Work In Progress Note](02_Work_In_Progress_Note.png.png)
 
 ---
 
 ### 3. Closed Ticket Resolution & Customer Reply
 Highlights ticket closure verification with customer-visible resolution details and internal service log.
-![Completed Ticket Reply](03_Completed_Customer_Reply.png)
+![Completed Ticket Reply](03_Completed_Customer_Reply.png.png)
 
 ---
 
 ### 4. Data Exporting for Analytics
 Exporting raw ticketing logs into Excel/CSV format for Power BI dashboard integration and KPI reporting.
-![Data Export Screen](04_Data_Export.png)
+![Data Export Screen](04_Data_Export.png.png)
 
 ---
 
