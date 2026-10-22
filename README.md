@@ -17,7 +17,7 @@ The goal of this project is to showcase proficiency in **Service Desk Operations
 
 ### 1. Operations Queue & Dashboard View (20 Master Tickets)
 Shows all 20 CAFM tickets categorized, assigned, and tracked across various operational statuses.
-![CAFM Dashboard Overview](01_CAFM_20_Tickets_Dashboard.png)
+![CAFM Dashboard Overview](01_CAFM_20_Tickets_Dashboard.png.png)
 
 ---
 
